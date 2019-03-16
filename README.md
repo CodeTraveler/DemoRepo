@@ -1,1 +1,1 @@
-"# DemoRepo name of repository for testing " 
+"# DemoRepo repository for testing " 
